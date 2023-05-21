@@ -1,0 +1,1610 @@
+.header{
+    position: absolute;
+width: 100%;
+height: 116px;
+left: 0px;
+top: 0px;
+
+background: #fcfbfb;
+}
+#logo{
+    position: absolute;
+width: 141px;
+height: 44px;
+left: 0px;
+top: 0px;
+}
+.tekst_logo{
+    
+position: absolute;
+width: 123px;
+height: 19px;
+left: 18px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+.tkst_logo{
+    position: absolute;
+width: 128px;
+height: 39px;
+left: 426px;
+top: -30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+}
+.film_logo{
+    position: absolute;
+width: 129px;
+height: 39px;
+left: 826px;
+top: -30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+}
+.sslka_logo{
+    position: absolute;
+width: 129px;
+height: 34px;
+left: 1308px;
+top: -30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+}
+.lupa{
+    
+position: absolute;
+width: 58.13px;
+height: 46.48px;
+left: 1749px;
+top: 5px;
+}
+.poisk{
+    position: absolute;
+width: 76px;
+height: 49px;
+left: 1844px;
+top: 0px;
+}
+.frame1{
+    
+    position: absolute;
+    width: 1920px;
+    height: 82px;
+    left: 0px;
+    top: 116px;
+    
+    background: #F0F0F0;
+
+}
+.film{
+    position: absolute;
+width: 112px;
+height: 29px;
+left: 52px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+}
+.myits{
+    
+position: absolute;
+width: 202px;
+height: 29px;
+left: 248px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.mylif{
+    
+position: absolute;
+width: 195px;
+height: 29px;
+left: 518px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.serial{
+    position: absolute;
+width: 119px;
+height: 29px;
+left: 781px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.anime{
+    position: absolute;
+width: 88px;
+height: 29px;
+left: 968px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000
+}
+.frame2{
+
+position: absolute;
+width: 1920px;
+height: 424px;
+left: 0px;
+top: 198px;
+
+background: #ffffff;
+}
+.novinki{
+    position: absolute;
+width: 106px;
+height: 64px;
+left: 0px;
+top: 10px;
+
+}
+.topfilm{
+    position: absolute;
+width: 186px;
+height: 64px;
+left: 141px;
+top: 10px;
+}
+.kartina1{
+    position: absolute;
+    width: 208px;
+    height: 294px;
+    left: 55px;
+    top: 113px;
+    
+    background: url(BlondeNetflixPoster.jpg);
+    border-radius: 41px;
+}
+.kartina2{
+    position: absolute;
+width: 208px;
+height: 299.87px;
+left: 327px;
+top: 107px;
+
+background: url(600x900.png);
+border-radius: 41px;
+}
+.kartina3{
+    position: absolute;
+width: 208px;
+height: 308.53px;
+left: 583px;
+top: 98px;
+
+background: url(300x450.png);
+border-radius: 41px;
+}
+.kartina4{
+    position: absolute;
+width: 208px;
+height: 311px;
+left: 856px;
+top: 96px;
+
+;
+border-radius: 41px;
+}
+.kartina5{
+    
+position: absolute;
+width: 208px;
+height: 307.84px;
+left: 1129px;
+top: 99px;
+
+border-radius: 41px;
+}
+.kartina6{
+    position: absolute;
+width: 208px;
+height: 304.17px;
+left: 1402px;
+top: 101px;
+
+
+border-radius: 41px;
+}
+.kartina7{
+    position: absolute;
+width: 208px;
+height: 308.19px;
+left: 1658px;
+top: 99px;
+
+
+border-radius: 41px;
+}
+.frame3{
+    position: absolute;
+    width: 1920px;
+    height: 800px;
+    left: 0px;
+    top: 650px;
+    
+    background: #F0F0F0;
+}
+.bsenovinki{
+    
+position: absolute;
+width: 192px;
+height: 60px;
+left: 14px;
+top: 44px;
+
+background: #866792;
+border-radius: 24px;
+}
+.ffilm{
+    
+position: absolute;
+width: 192px;
+height: 60px;
+left: 316px;
+top: 44px;
+
+background: #866792;
+border-radius: 24px;
+}
+.mf{
+    position: absolute;
+width: 192px;
+height: 60px;
+left: 618px;
+top: 44px;
+
+background: #866792;
+border-radius: 24px;
+}
+#sser{
+    position: absolute;
+width: 192px;
+height: 60px;
+left: 940px;
+top: 44px;
+
+background: #866792;
+border-radius: 24px;
+}
+#aan{
+    position: absolute;
+width: 192px;
+height: 60px;
+left: 1296px;
+top: 44px;
+
+background: #630C82;
+border-radius: 24px;
+}
+.atakaT{
+    position: absolute;
+width: 208px;
+height: 311.84px;
+left: 37px;
+top: 167px;
+
+background: url(ataka-titanov_5);
+border-radius: 30px;
+}
+.klinok{
+    
+position: absolute;
+width: 211px;
+height: 312px;
+left: 307px;
+top: 167px;
+
+
+border-radius: 30px;
+}
+.ar{
+/* e061d85e0c8201a92a304259be61f8 1 */
+position: absolute;
+width: 208px;
+height: 312px;
+left: 602px;
+top: 167px;
+
+background: url(e061d85e0c8201a92a304259be61f8.jpg);
+border-radius: 30px;
+}
+.ynp{
+    /* 300x450 (2) 1 */
+
+
+position: absolute;
+width: 208px;
+height: 312px;
+left: 924px;
+top: 167px;
+
+
+border-radius: 30px;
+}
+.gg{
+    /* b84eb4f5dc18eceb0ec1fb618b0b9b20 1 */
+
+
+position: absolute;
+width: 208px;
+height: 308px;
+left: 1235px;
+top: 171px;
+
+background: url(b84eb4f5dc18eceb0ec1fb618b0b9b20);
+border-radius: 30px;
+}
+.nn{
+    /* 300x450 (3) 1 */
+
+
+position: absolute;
+width: 208px;
+height: 308px;
+left: 1560px;
+top: 171px;
+
+
+border-radius: 41px;
+}
+.att{
+    /* Attack of the Titans Сериал 2018 */
+position: absolute;
+width: 224px;
+height: 58px;
+left: 37px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.ds{
+/* Demon slayer Сериал 2019 */
+
+
+position: absolute;
+width: 158px;
+height: 58px;
+left: 335px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.are{
+    /* Arietti from the Land of the Lilliputians Фильм 2010 */
+
+
+position: absolute;
+width: 271px;
+height: 87px;
+left: 593px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.sa{
+    /* Spirited Away Фильм 2001 */
+
+
+position: absolute;
+width: 155px;
+height: 58px;
+left: 960px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.yn{
+    /* Your name Фильм 2016 */
+
+
+position: absolute;
+width: 142px;
+height: 58px;
+left: 1282px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.sih{
+    /* Sing a little harmony Фильм 2021 */
+
+
+position: absolute;
+width: 231px;
+height: 58px;
+left: 1560px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.frame4{
+    /* Rectangle 21 */
+
+
+position: absolute;
+width: 1920px;
+height: 260px;
+left: 0px;
+top: 1338px;
+
+background: #1E1E1E
+}
+.tvitr{
+    /* 733579 1 */
+
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 641px;
+top: 46px;
+
+background: url(733579.png);
+}
+.insta{
+    /* 1619706183_1-phonoteka_org-p-znachok-instagram-bez-fona-dlya-fotoshopa-1 1 */
+
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 909px;
+top: 46px;
+
+background: url(1619706183_1-phonoteka_org-p-znachok-instagram-bez-fona-dlya-fotoshopa-1);
+}
+.vk{
+    /* 1ed847a2-ea0a-6570-1cb0-b79192b84f6a 1 */
+
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 1177px;
+top: 46px;
+
+background: url(1ed847a2-ea0a-6570-1cb0-b79192b84f6a.png);
+}
+.vakansii{
+    /* Вакансии */
+
+
+position: absolute;
+width: 149px;
+height: 39px;
+left: 170px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8%;
+
+}
+.container p{
+    width: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+.sp{
+    /* Служба поддержки */
+
+
+position: absolute;
+width: 310px;
+height: 39px;
+left: 511px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+}
+.predlojenia{
+    /* Предложения */
+
+
+position: absolute;
+width: 219px;
+height: 39px;
+left: 1025px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+
+}
+.reklama{
+    /* Реклама */
+
+
+position: absolute;
+width: 135px;
+height: 39px;
+left: 1508px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+
+}
+.frame5{
+    /* Rectangle 18 */
+
+
+position: absolute;
+width: 1920px;
+height: 1010px;
+left: 0px;
+top: 198px;
+
+background: #F1F1F1;
+}
+.blok{
+    /* Rectangle 19 */
+
+
+position: absolute;
+width: 1791px;
+height: 1025px;
+left: 65px;
+top: 0px;
+
+background: #FFFFFF;
+}
+.foto{
+    /* BlondeNetflixPoster 2 */
+
+
+position: absolute;
+width: 316px;
+height: 450px;
+left: 95px;
+top: 50px;
+
+background: url(BlondeNetflixPoster.jpg);
+}
+.blond{
+    
+position: absolute;
+width: 422px;
+height: 58px;
+left: 455px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ofilme{
+    
+position: absolute;
+width: 192px;
+height: 38px;
+left: 467px;
+top: 100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #3D3D3D;
+
+
+}
+.god{
+    position: absolute;
+width: 213px;
+height: 29px;
+left: 429px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.strana{
+    position: absolute;
+width: 86px;
+height: 29px;
+left: 431px;
+top: 300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.janr{
+    position: absolute;
+width: 65px;
+height: 29px;
+left: 429px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.rejisser{
+    
+position: absolute;
+width: 119px;
+height: 29px;
+left: 429px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.scenary{
+    /* Сценарий */
+
+
+position: absolute;
+width: 118px;
+height: 29px;
+left: 429px;
+top: 450px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.produsir{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 424px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.operatr{
+    
+position: absolute;
+width: 115px;
+height: 29px;
+left: 429px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.montaj{
+    
+position: absolute;
+width: 95px;
+height: 29px;
+left: 424px;
+top: 600px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.vosrast{
+    position: absolute;
+width: 96px;
+height: 29px;
+left: 429px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.vreme{
+    position: absolute;
+width: 76px;
+height: 29px;
+left: 429px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.cislo{
+    /* 2022 */
+
+
+position: absolute;
+width: 787px;
+height: 39px;
+left: 704px;
+top: 190px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.netflix{
+    position: absolute;
+width: 99px;
+height: 39px;
+left: 704px;
+top: 240px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.sha{
+    /* США */
+
+    position: absolute;
+    width: 351px;
+    height: 39px;
+    left: 700px;
+    top: 280px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+
+
+color: #000000;
+
+}
+.biografia{
+    /* биография , драма */
+
+
+position: absolute;
+width: 295px;
+height: 39px;
+left: 704px;
+top: 330px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ime{
+    
+    position: absolute;
+    width: 256px;
+    height: 39px;
+    left: 704px;
+    top: 380px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+
+
+color: #000000;
+
+}
+.imme{
+    
+position: absolute;
+width: 570px;
+height: 39px;
+left: 704px;
+top: 430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.immme{
+    position: absolute;
+width: 787px;
+height: 39px;
+left: 704px;
+top: 480px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.operatori{
+    position: absolute;
+width: 204px;
+height: 39px;
+left: 704px;
+top: 530px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.montajA{
+    
+position: absolute;
+width: 245px;
+height: 39px;
+left: 704px;
+top: 580px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.vosrast18{
+    
+position: absolute;
+width: 56px;
+height: 39px;
+left: 704px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.vremeB{
+    position: absolute;
+width: 250px;
+height: 39px;
+left: 704px;
+top: 680px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.RRr{
+    
+position: absolute;
+width: 255px;
+height: 39px;
+left: 186px;
+top: 780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.zvezda1{
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: absolute;
+    top: 1120px;
+    left: 100px;
+}
+.ocenitefilm{
+    position: absolute;
+width: 270px;
+height: 44px;
+left: 571px;
+top: 900px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.vrolx{
+    
+position: absolute;
+width: 195px;
+height: 29px;
+left: 1558px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ada{
+    
+position: absolute;
+width: 162px;
+height: 29px;
+left: 1518px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ab{
+    
+position: absolute;
+width: 181px;
+height: 29px;
+left: 1518px;
+top: 80px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.bk{
+    position: absolute;
+width: 206px;
+height: 29px;
+left: 1518px;
+top: 110px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.zz{
+    
+position: absolute;
+width: 186px;
+height: 29px;
+left: 1518px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.gjn{
+    position: absolute;
+    width: 255px;
+    height: 29px;
+    left: 1518px;
+    top: 170px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+.ivy{
+    position: absolute;
+width: 166px;
+height: 29px;
+left: 1518px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.txx{
+    
+position: absolute;
+width: 119px;
+height: 29px;
+left: 1518px;
+top: 230px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.day{
+    
+position: absolute;
+width: 214px;
+height: 29px;
+left: 1518px;
+top: 260px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.kff{
+    position: absolute;
+width: 223px;
+height: 29px;
+left: 1518px;
+top: 290px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.db{
+    
+position: absolute;
+width: 135px;
+height: 29px;
+left: 1518px;
+top: 320px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.frame32{
+    /* Rectangle 21 */
+
+
+position: absolute;
+width: 1920px;
+height: 260px;
+left: 0px;
+top: 1300px;
+
+background: #1E1E1E;
+}
+.tvtr{
+    
+position: absolute;
+width: 51px;
+height: 51px;
+left: 641px;
+top: 46px;
+
+background: url(733579.png);
+}
+.inst{
+    /* 1619706183_1-phonoteka_org-p-znachok-instagram-bez-fona-dlya-fotoshopa-1 1 */
+
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 909px;
+top: 46px;
+
+background: url(1619706183_1-phonoteka_org-p-znachok-instagram-bez-fona-dlya-fotoshopa-1);
+}
+.vkk{
+    /* 1ed847a2-ea0a-6570-1cb0-b79192b84f6a 1 */
+
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 1177px;
+top: 46px;
+
+background: url(1ed847a2-ea0a-6570-1cb0-b79192b84f6a);
+}
+.vvv{
+    position: absolute;
+width: 149px;
+height: 39px;
+left: 170px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+
+}
+.slb{
+    position: absolute;
+width: 310px;
+height: 39px;
+left: 511px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+
+}
+.predl{
+    position: absolute;
+width: 219px;
+height: 39px;
+left: 1025px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+
+}
+.reklam{
+    position: absolute;
+width: 135px;
+height: 39px;
+left: 1508px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.42);
+
+
+}
+.fotto{
+    
+position: absolute;
+width: 316px;
+height: 450px;
+left: 90px;
+top: 50px;
+
+background: url(600x900.png);
+}
+.magan{
+    position: absolute;
+width: 331px;
+height: 58px;
+left: 462px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.bbb{
+ 
+position: absolute;
+width: 133px;
+height: 29px;
+left: 429px;
+top: 250px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.dengi{
+    position: absolute;
+    width: 23px;
+    height: 58px;
+    left: 676px;
+    top: 250px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+
+color: #000000;
+
+}
+.platforma{
+    position: absolute;
+width: 133px;
+height: 29px;
+left: 429px;
+top: 255px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ccc{position: absolute;
+    width: 320px;
+    height: 290px;
+    left: 1518px;
+    top: 63px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+    }
